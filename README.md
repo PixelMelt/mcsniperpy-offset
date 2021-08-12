@@ -12,7 +12,7 @@ Helps you find a good offset for your mcsniperpy name snipes based on previous d
 
 !Important! Windows defender will flag the exe as malicious so if you dont feel comfortable running it simply install nodeJS and run the source.
 
-To use this program either install nodeJS and run the source code or run one of the pre-perpaired binaries for your OS.
+To use this program either install nodeJS and run the source code or run one of the pre-prepared binaries for your OS.
 
 # Download
 
