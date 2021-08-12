@@ -17,5 +17,7 @@ To use this program either install nodeJS and run the source code or run one of 
 # Download
 
 Linux > https://github.com/PixelMelt/mcsniperpy-offset/releases/download/Release/offsetfinder-linux
+
 Windows > https://github.com/PixelMelt/mcsniperpy-offset/releases/download/Release/offsetfinder-win.exe
+
 Mac (untested) > https://github.com/PixelMelt/mcsniperpy-offset/releases/download/Release/offsetfinder-macos
